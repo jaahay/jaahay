@@ -6,12 +6,16 @@
 
 ## Professional Interests
 challenging work
+
 trusting team
+
 continuous delivery
+
 meaningful product
 
 ## Personal Values
 avoid the violent; seek out the uncomfortable
+
 empower diversity
 
 ## Creative Projects
@@ -19,8 +23,11 @@ empower diversity
 
 ## Inspirations
 mental health
+
 investing in future
+
 developing for children
+
 democratizing programming
 
 <!--
