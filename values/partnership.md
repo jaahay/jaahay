@@ -1,4 +1,3 @@
- #### Partnership Values
     confide in them
     grow old together
     forgive each other
