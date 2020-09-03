@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+
+# About Me
+
+
+## Professional Interests
+challenging work
+trusting team
+continuous delivery
+meaningful product
+
+## Personal Values
+avoid the violent; seek out the uncomfortable
+empower diversity
+
+## Creative Projects
+
+
+## Inspirations
+mental health
+investing in future
+developing for children
+democratizing programming
+
 <!--
 **jaahay/jaahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
