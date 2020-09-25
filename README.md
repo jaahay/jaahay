@@ -5,25 +5,25 @@
 
 
 ## Professional Interests
-Reliability
-    Trust
-    Confidence
-    Predictability
-    Adaptable
-    Meaning
+    Reliability
+        Trust
+        Confidence
+        Predictability
+        Adaptable
+        Meaning
 
 ## Personal Values
-avoid aggression
-seek out the uncomfortable
-empower diversity
+    avoid aggression
+    seek out the uncomfortable
+    empower diversity
 
 ## Creative Projects
 
 
 ## Inspirations
-investing in future
-developing for children
-democratizing programming
+    investing in future
+    developing for children
+    democratizing programming
 
 <!--
 **jaahay/jaahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
