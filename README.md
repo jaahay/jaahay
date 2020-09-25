@@ -5,29 +5,24 @@
 
 
 ## Professional Interests
-challenging work
-
-trusting team
-
-continuous delivery
-
-meaningful product
+Reliability
+    Trust
+    Confidence
+    Predictability
+    Adaptable
+    Meaning
 
 ## Personal Values
-avoid the violent; seek out the uncomfortable
-
+avoid aggression
+seek out the uncomfortable
 empower diversity
 
 ## Creative Projects
 
 
 ## Inspirations
-mental health
-
 investing in future
-
 developing for children
-
 democratizing programming
 
 <!--
